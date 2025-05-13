@@ -1,4 +1,4 @@
-# SoftwareEngineeringHW5
+# SoftwareEngineeringHW
 
 Test Automation Assignment
 
