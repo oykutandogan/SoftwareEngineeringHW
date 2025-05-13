@@ -10,7 +10,7 @@ Scenario:
 - Check whether the message “Your username is invalid!” appears.
 
 Technologies Used:
-- Python 3.x
+- Python
 - Selenium
 - Chrome WebDriver
 
